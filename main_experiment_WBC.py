@@ -117,7 +117,7 @@ pan_pgnmf, Ns, scores_pgnmf = framework_pgnmf(K, steps, X, n, indices_anomal, in
 # anomaly detection
 
 save_flag = 0
-save_path = r'F:\10-NMF-ind1\manuscript - itr\figures'
+save_path = r'F:\xxx\figures'
 save_name = '\experiment_wbc_anomalies'
 
 plt.rcParams["figure.figsize"] = (4,3)
@@ -148,7 +148,7 @@ elif save_flag == 0:
 # evaluate the accuracy
  
 save_flag = 1
-save_path = r'F:\10-NMF-ind1\manuscript - itr\figures'
+save_path = r'F:xxx\figures'
 save_name = '\experiment_wbc_PaN'
 
 plt.rcParams["figure.figsize"] = (5,3)
@@ -191,4 +191,4 @@ experiment_wbc_results = pd.DataFrame({'Ns':Ns,
                                        'pan_gnmf':pan_gnmf,
                                        'pan_pgnmf':pan_pgnmf})
 
-experiment_wbc_results.to_excel(r'F:\10-NMF-ind1\experiment\experiment_wbc_results.xlsx')
+experiment_wbc_results.to_excel(r'xxx\experiment_wbc_results.xlsx')
