@@ -10,13 +10,14 @@ Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/resear
 ## Code
 - Self defined function
   - GNMF.py: GNMF function
--- PGNMF.py: self-defined PGNMF function
-- framework_nmf.py : the benchmark NMF method
-- framework_svd.py : the benchmark SVD method
-- framework_bd.py : the benchmark BD method
-- framework_bmf.py : the benhcmark BMF method
-- framework_snmf.py : the benchmark SNMF method
-- framework_gnmf.py : the benchmark GNMF method
-- framework_lfnmf.py : the benchmark LFNMF method
-- framework_pgnmf.py : the proposed PGNMF method
-- main_experiment_WBC.py : experiment based on WBC.xlsx dataset, and the results are presented in Figure 1 in the paper.
+  - PGNMF.py: self-defined PGNMF function
+  - framework_nmf.py : the benchmark NMF method
+  - framework_svd.py : the benchmark SVD method
+  - framework_bd.py : the benchmark BD method
+  - framework_bmf.py : the benhcmark BMF method
+  - framework_snmf.py : the benchmark SNMF method
+  - framework_gnmf.py : the benchmark GNMF method
+  - framework_lfnmf.py : the benchmark LFNMF method
+  - framework_pgnmf.py : the proposed PGNMF method
+- experiments
+  - main_experiment_WBC.py : experiment based on WBC.xlsx dataset, and the results are presented in Figure 1 in the paper.
