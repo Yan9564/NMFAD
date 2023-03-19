@@ -9,7 +9,7 @@ Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/resear
 - [NIMFA in Python](http://nimfa.biolab.si/): for NMF and variants benchmark methods.
 ## Code
 - Self defined function
-# - GNMF.py: GNMF function
+- - GNMF.py: GNMF function
 -- PGNMF.py: self-defined PGNMF function
 - framework_nmf.py : the benchmark NMF method
 - framework_svd.py : the benchmark SVD method
