@@ -11,7 +11,7 @@ Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/resear
 ## Code
 - Self-defined function
   - GNMF.py: GNMF function
-  - PGNMF.py: self-defined PGNMF function
+  - PNMF.py: self-defined PNMF function
   - framework_nmf.py : the benchmark NMF method
   - framework_svd.py : the benchmark SVD method
   - framework_svd_st.py : the benchmark SVD method with soft thresholding
@@ -20,6 +20,6 @@ Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/resear
   - framework_snmf.py : the benchmark SNMF method
   - framework_gnmf.py : the benchmark GNMF method
   - framework_lfnmf.py : the benchmark LFNMF method
-  - framework_pgnmf.py : the proposed PGNMF method
+  - framework_pnmf.py : the proposed PNMF method
 - experiments
   - main_experiment_WBC.py : experiment based on the WBC.xlsx dataset, and the results are presented in Figure 1 in the paper.
