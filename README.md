@@ -3,6 +3,7 @@ This repository includes code and dataset in paper xxx
 ## Data set in experiment
 - The data set in the experiment is from literature in ["__On the Evaluation of Unsupervised Outlier Detection:
 Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/research/outlier-evaluation/DAMI/)
+- The data set used in the appendix is from [http://www.ai.mit.edu/courses/6.899/lectures/faces.tar.gz](http://www.ai.mit.edu/courses/6.899/lectures/faces.tar.gz)
 - The data set in the case study are available from yanbingxin124@163.com, upon reasonable request.
 ## Requirements
 - Python 3.9.7
@@ -13,6 +14,7 @@ Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/resear
   - PGNMF.py: self-defined PGNMF function
   - framework_nmf.py : the benchmark NMF method
   - framework_svd.py : the benchmark SVD method
+  - framework_svd_st.py : the benchmark SVD method with soft thresholding
   - framework_bd.py : the benchmark BD method
   - framework_bmf.py : the benchmark BMF method
   - framework_snmf.py : the benchmark SNMF method
