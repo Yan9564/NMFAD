@@ -23,3 +23,4 @@ Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/resear
   - framework_pnmf.py : the proposed PNMF method
 - experiments
   - main_experiment_WBC.py : experiment based on the WBC.xlsx dataset, and the results are presented in Figure 1 in the paper.
+  - main_face.py : experiment based on the face dataset, and the results are presented in Figure 15 in the paper.
