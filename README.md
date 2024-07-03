@@ -1,5 +1,5 @@
 # NMFAD
-This repository includes code and dataset in paper "B. Yan, X. Ma, Q. Sun and L. Shen, [Physics-Enhanced NMF Toward Anomaly Detection in Rotating Mechanical Systems, in IEEE Transactions on Reliability."](https://ieeexplore.ieee.org/document/10579702)
+This repository includes code and dataset in paper Yan ["Physics-Enhanced NMF Toward Anomaly Detection in Rotating Mechanical Systems"](https://ieeexplore.ieee.org/document/10579702)
 ## Data set in experiment
 - The data set in the experiment is from literature in ["__On the Evaluation of Unsupervised Outlier Detection:
 Measures, Datasets, and an Empirical Study__"](https://www.dbs.ifi.lmu.de/research/outlier-evaluation/DAMI/)
